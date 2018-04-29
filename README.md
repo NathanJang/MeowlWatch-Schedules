@@ -5,8 +5,15 @@ This repo contains the files that [MeowlWatch] uses to display dining schedules.
 
 See [CONTRIBUTING.md] to contribute.
 
+- [CafeSchedules.plist]
+- [DiningHallSchedules.plist]
+- [NorrisSchedules.plst]
+
 [MeowlWatch]: https://itunes.apple.com/us/app/meowlwatch-for-northwestern-university-dining/id1219875692?mt=8
 [CONTRIBUTING.md]: CONTRIBUTING.md
+[CafeSchedules.plist]: CafeSchedules.plist
+[DiningHallSchedules.plist]: DiningHallSchedules.plist
+[NorrisSchedules.plst]: NorrisSchedules.plist
 
 Interpreting Schedule Files
 ---------------------------
