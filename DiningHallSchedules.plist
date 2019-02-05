@@ -8,44 +8,13 @@
 			<key>StartingDayOfWeek</key>
 			<string>Monday</string>
 			<key>EndingDayOfWeek</key>
-			<string>Friday</string>
+			<string>Saturday</string>
 			<key>Schedule</key>
 			<dict>
 				<key>0700</key>
 				<string>Closed</string>
-				<key>1000</key>
-				<string>Breakfast</string>
-				<key>1100</key>
-				<string>Continental Breakfast</string>
-				<key>1330</key>
-				<string>Lunch</string>
-				<key>1700</key>
-				<string>Lite Lunch</string>
 				<key>2000</key>
-				<string>Dinner</string>
-				<key>2400</key>
-				<string>Closed</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>StartingDayOfWeek</key>
-			<string>Saturday</string>
-			<key>EndingDayOfWeek</key>
-			<string>Saturday</string>
-			<key>Schedule</key>
-			<dict>
-				<key>0700</key>
-				<string>Closed</string>
-				<key>1000</key>
-				<string>Breakfast</string>
-				<key>1100</key>
-				<string>Continental Breakfast</string>
-				<key>1330</key>
-				<string>Lunch</string>
-				<key>1700</key>
-				<string>Lite Lunch</string>
-				<key>1900</key>
-				<string>Dinner</string>
+				<string>Open</string>
 				<key>2400</key>
 				<string>Closed</string>
 			</dict>
@@ -59,57 +28,26 @@
 			<dict>
 				<key>1000</key>
 				<string>Closed</string>
-				<key>1400</key>
-				<string>Brunch</string>
-				<key>1700</key>
-				<string>Lite Lunch</string>
-				<key>1900</key>
-				<string>Dinner</string>
+				<key>2000</key>
+				<string>Open</string>
 				<key>2400</key>
 				<string>Closed</string>
 			</dict>
 		</dict>
 	</array>
-	<key>Elder</key>
+	<key>Hinman</key>
 	<array>
 		<dict>
 			<key>StartingDayOfWeek</key>
 			<string>Monday</string>
 			<key>EndingDayOfWeek</key>
-			<string>Thursday</string>
-			<key>Schedule</key>
-			<dict>
-				<key>0700</key>
-				<string>Closed</string>
-				<key>0900</key>
-				<string>Breakfast</string>
-				<key>1100</key>
-				<string>Closed</string>
-				<key>1300</key>
-				<string>Lunch</string>
-				<key>1645</key>
-				<string>Closed</string>
-				<key>1930</key>
-				<string>Dinner</string>
-				<key>2400</key>
-				<string>Closed</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>StartingDayOfWeek</key>
-			<string>Friday</string>
-			<key>EndingDayOfWeek</key>
 			<string>Friday</string>
 			<key>Schedule</key>
 			<dict>
 				<key>0700</key>
 				<string>Closed</string>
-				<key>0900</key>
-				<string>Breakfast</string>
-				<key>1100</key>
-				<string>Closed</string>
-				<key>1300</key>
-				<string>Lunch</string>
+				<key>2000</key>
+				<string>Open</string>
 				<key>2400</key>
 				<string>Closed</string>
 			</dict>
@@ -132,43 +70,28 @@
 			<key>StartingDayOfWeek</key>
 			<string>Monday</string>
 			<key>EndingDayOfWeek</key>
-			<string>Thursday</string>
+			<string>Saturday</string>
 			<key>Schedule</key>
 			<dict>
-				<key>1100</key>
-				<string>Closed</string>
-				<key>1330</key>
-				<string>Lunch</string>
-				<key>1645</key>
+				<key>0700</key>
 				<string>Closed</string>
 				<key>2000</key>
-				<string>Dinner</string>
+				<string>Open</string>
 				<key>2400</key>
 				<string>Closed</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>StartingDayOfWeek</key>
-			<string>Friday</string>
-			<key>EndingDayOfWeek</key>
-			<string>Friday</string>
-			<key>Schedule</key>
-			<dict>
-				<key>1100</key>
-				<string>Closed</string>
-				<key>1330</key>
-				<string>Lunch</string>
-				<key>2400</key>
-				<string>Closed</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>StartingDayOfWeek</key>
-			<string>Saturday</string>
+			<string>Sunday</string>
 			<key>EndingDayOfWeek</key>
 			<string>Sunday</string>
 			<key>Schedule</key>
 			<dict>
+				<key>1000</key>
+				<string>Closed</string>
+				<key>2000</key>
+				<string>Open</string>
 				<key>2400</key>
 				<string>Closed</string>
 			</dict>
@@ -180,46 +103,26 @@
 			<key>StartingDayOfWeek</key>
 			<string>Monday</string>
 			<key>EndingDayOfWeek</key>
+			<string>Thursday</string>
+			<key>Schedule</key>
+			<dict>
+				<key>0700</key>
+				<string>Closed</string>
+				<key>2400</key>
+				<string>Open</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>StartingDayOfWeek</key>
 			<string>Friday</string>
-			<key>Schedule</key>
-			<dict>
-				<key>0700</key>
-				<string>Closed</string>
-				<key>1000</key>
-				<string>Breakfast</string>
-				<key>1100</key>
-				<string>Continental Breakfast</string>
-				<key>1330</key>
-				<string>Lunch</string>
-				<key>1700</key>
-				<string>Lite Lunch</string>
-				<key>2000</key>
-				<string>Dinner</string>
-				<key>2330</key>
-				<string>Late Night</string>
-				<key>2400</key>
-				<string>Closed</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>StartingDayOfWeek</key>
-			<string>Saturday</string>
 			<key>EndingDayOfWeek</key>
 			<string>Saturday</string>
 			<key>Schedule</key>
 			<dict>
 				<key>0700</key>
 				<string>Closed</string>
-				<key>1000</key>
-				<string>Breakfast</string>
-				<key>1100</key>
-				<string>Continental Breakfast</string>
-				<key>1400</key>
-				<string>Brunch</string>
-				<key>1700</key>
-				<string>Lite Lunch</string>
-				<key>1900</key>
-				<string>Dinner</string>
+				<key>2000</key>
+				<string>Open</string>
 				<key>2400</key>
 				<string>Closed</string>
 			</dict>
@@ -233,16 +136,8 @@
 			<dict>
 				<key>1000</key>
 				<string>Closed</string>
-				<key>1400</key>
-				<string>Brunch</string>
-				<key>1700</key>
-				<string>Lite Lunch</string>
-				<key>2000</key>
-				<string>Dinner</string>
-				<key>2330</key>
-				<string>Late Night</string>
 				<key>2400</key>
-				<string>Closed</string>
+				<string>Open</string>
 			</dict>
 		</dict>
 	</array>
@@ -252,46 +147,13 @@
 			<key>StartingDayOfWeek</key>
 			<string>Monday</string>
 			<key>EndingDayOfWeek</key>
-			<string>Thursday</string>
+			<string>Friday</string>
 			<key>Schedule</key>
 			<dict>
-				<key>0600</key>
+				<key>0700</key>
 				<string>Closed</string>
-				<key>1000</key>
-				<string>Breakfast</string>
-				<key>1100</key>
-				<string>Continental Breakfast</string>
-				<key>1415</key>
-				<string>Lunch</string>
-				<key>1700</key>
-				<string>Lite Lunch</string>
-				<key>2000</key>
-				<string>Dinner</string>
 				<key>2330</key>
-				<string>Late Night</string>
-				<key>2400</key>
-				<string>Closed</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>StartingDayOfWeek</key>
-			<string>Friday</string>
-			<key>EndingDayOfWeek</key>
-			<string>Friday</string>
-			<key>Schedule</key>
-			<dict>
-				<key>0600</key>
-				<string>Closed</string>
-				<key>1000</key>
-				<string>Breakfast</string>
-				<key>1100</key>
-				<string>Continental Breakfast</string>
-				<key>1415</key>
-				<string>Lunch</string>
-				<key>1700</key>
-				<string>Lite Lunch</string>
-				<key>2000</key>
-				<string>Dinner</string>
+				<string>Open</string>
 				<key>2400</key>
 				<string>Closed</string>
 			</dict>
@@ -305,16 +167,8 @@
 			<dict>
 				<key>0700</key>
 				<string>Closed</string>
-				<key>1000</key>
-				<string>Breakfast</string>
-				<key>1100</key>
-				<string>Continental Breakfast</string>
-				<key>1400</key>
-				<string>Brunch</string>
-				<key>1700</key>
-				<string>Lite Lunch</string>
 				<key>2000</key>
-				<string>Dinner</string>
+				<string>Open</string>
 				<key>2400</key>
 				<string>Closed</string>
 			</dict>
@@ -326,16 +180,10 @@
 			<string>Sunday</string>
 			<key>Schedule</key>
 			<dict>
-				<key>1000</key>
+				<key>0700</key>
 				<string>Closed</string>
-				<key>1400</key>
-				<string>Brunch</string>
-				<key>1700</key>
-				<string>Lite Lunch</string>
-				<key>2000</key>
-				<string>Dinner</string>
 				<key>2330</key>
-				<string>Late Night</string>
+				<string>Open</string>
 				<key>2400</key>
 				<string>Closed</string>
 			</dict>

@@ -21,21 +21,6 @@
 			<key>StartingDayOfWeek</key>
 			<string>Friday</string>
 			<key>EndingDayOfWeek</key>
-			<string>Friday</string>
-			<key>Schedule</key>
-			<dict>
-				<key>0700</key>
-				<string>Closed</string>
-				<key>2000</key>
-				<string>Open</string>
-				<key>2400</key>
-				<string>Closed</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>StartingDayOfWeek</key>
-			<string>Saturday</string>
-			<key>EndingDayOfWeek</key>
 			<string>Saturday</string>
 			<key>Schedule</key>
 			<dict>
@@ -70,7 +55,7 @@
 			<string>Saturday</string>
 			<key>Schedule</key>
 			<dict>
-				<key>0300</key>
+				<key>0200</key>
 				<string>Open</string>
 				<key>0800</key>
 				<string>Closed</string>
@@ -123,51 +108,7 @@
 			</dict>
 		</dict>
 	</array>
-	<key>Einstein at Pancoe</key>
-	<array>
-		<dict>
-			<key>StartingDayOfWeek</key>
-			<string>Monday</string>
-			<key>EndingDayOfWeek</key>
-			<string>Thursday</string>
-			<key>Schedule</key>
-			<dict>
-				<key>0800</key>
-				<string>Closed</string>
-				<key>1600</key>
-				<string>Open</string>
-				<key>2400</key>
-				<string>Closed</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>StartingDayOfWeek</key>
-			<string>Friday</string>
-			<key>EndingDayOfWeek</key>
-			<string>Friday</string>
-			<key>Schedule</key>
-			<dict>
-				<key>0800</key>
-				<string>Closed</string>
-				<key>1500</key>
-				<string>Open</string>
-				<key>2400</key>
-				<string>Closed</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>StartingDayOfWeek</key>
-			<string>Saturday</string>
-			<key>EndingDayOfWeek</key>
-			<string>Sunday</string>
-			<key>Schedule</key>
-			<dict>
-				<key>2400</key>
-				<string>Closed</string>
-			</dict>
-		</dict>
-	</array>
-	<key>Café Bergson</key>
+	<key>Café Bergson at Main</key>
 	<array>
 		<dict>
 			<key>StartingDayOfWeek</key>
@@ -178,8 +119,10 @@
 			<dict>
 				<key>0830</key>
 				<string>Closed</string>
-				<key>2400</key>
+				<key>2230</key>
 				<string>Open</string>
+				<key>2400</key>
+				<string>Closed</string>
 			</dict>
 		</dict>
 		<dict>
@@ -191,7 +134,7 @@
 			<dict>
 				<key>0830</key>
 				<string>Closed</string>
-				<key>1500</key>
+				<key>1530</key>
 				<string>Open</string>
 				<key>2400</key>
 				<string>Closed</string>
@@ -204,9 +147,9 @@
 			<string>Saturday</string>
 			<key>Schedule</key>
 			<dict>
-				<key>1200</key>
+				<key>1030</key>
 				<string>Closed</string>
-				<key>1600</key>
+				<key>1530</key>
 				<string>Open</string>
 				<key>2400</key>
 				<string>Closed</string>
@@ -219,10 +162,12 @@
 			<string>Sunday</string>
 			<key>Schedule</key>
 			<dict>
-				<key>1700</key>
+				<key>1130</key>
 				<string>Closed</string>
-				<key>2400</key>
+				<key>2230</key>
 				<string>Open</string>
+				<key>2400</key>
+				<string>Closed</string>
 			</dict>
 		</dict>
 	</array>
@@ -270,7 +215,99 @@
 			</dict>
 		</dict>
 	</array>
+	<key>Café Coralie at Pancoe</key>
+	<array>
+		<dict>
+			<key>StartingDayOfWeek</key>
+			<string>Monday</string>
+			<key>EndingDayOfWeek</key>
+			<string>Friday</string>
+			<key>Schedule</key>
+			<dict>
+				<key>0800</key>
+				<string>Closed</string>
+				<key>1500</key>
+				<string>Open</string>
+				<key>2400</key>
+				<string>Closed</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>StartingDayOfWeek</key>
+			<string>Saturday</string>
+			<key>EndingDayOfWeek</key>
+			<string>Sunday</string>
+			<key>Schedule</key>
+			<dict>
+				<key>2400</key>
+				<string>Closed</string>
+			</dict>
+		</dict>
+	</array>
 	<key>Lisa&apos;s Café at Slivka</key>
+	<array>
+		<dict>
+			<key>StartingDayOfWeek</key>
+			<string>Monday</string>
+			<key>EndingDayOfWeek</key>
+			<string>Monday</string>
+			<key>Schedule</key>
+			<dict>
+				<key>0800</key>
+				<string>Closed</string>
+				<key>2400</key>
+				<string>Open</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>StartingDayOfWeek</key>
+			<string>Tuesday</string>
+			<key>EndingDayOfWeek</key>
+			<string>Friday</string>
+			<key>Schedule</key>
+			<dict>
+				<key>0300</key>
+				<string>Open</string>
+				<key>0800</key>
+				<string>Closed</string>
+				<key>2400</key>
+				<string>Open</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>StartingDayOfWeek</key>
+			<string>Saturday</string>
+			<key>EndingDayOfWeek</key>
+			<string>Saturday</string>
+			<key>Schedule</key>
+			<dict>
+				<key>0300</key>
+				<string>Open</string>
+				<key>1100</key>
+				<string>Closed</string>
+				<key>1500</key>
+				<string>Open</string>
+				<key>2400</key>
+				<string>Closed</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>StartingDayOfWeek</key>
+			<string>Sunday</string>
+			<key>EndingDayOfWeek</key>
+			<string>Sunday</string>
+			<key>Schedule</key>
+			<dict>
+				<key>0800</key>
+				<string>Closed</string>
+				<key>1500</key>
+				<string>Open</string>
+				<key>2400</key>
+				<string>Closed</string>
+			</dict>
+		</dict>
+	</array>
+	<key>Hinman C-Store</key>
 	<array>
 		<dict>
 			<key>StartingDayOfWeek</key>
@@ -279,12 +316,37 @@
 			<string>Saturday</string>
 			<key>Schedule</key>
 			<dict>
-				<key>0200</key>
-				<string>Open</string>
-				<key>1100</key>
-				<string>Closed</string>
 				<key>2400</key>
+				<string>Closed</string>
+			</dict>
+		</dict>
+	</array>
+	<key>Starbucks Truck at Mudd</key>
+	<array>
+		<dict>
+			<key>StartingDayOfWeek</key>
+			<string>Monday</string>
+			<key>EndingDayOfWeek</key>
+			<string>Friday</string>
+			<key>Schedule</key>
+			<dict>
+				<key>0900</key>
+				<string>Closed</string>
+				<key>1500</key>
 				<string>Open</string>
+				<key>2400</key>
+				<string>Closed</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>StartingDayOfWeek</key>
+			<string>Saturday</string>
+			<key>EndingDayOfWeek</key>
+			<string>Sunday</string>
+			<key>Schedule</key>
+			<dict>
+				<key>2400</key>
+				<string>Closed</string>
 			</dict>
 		</dict>
 	</array>

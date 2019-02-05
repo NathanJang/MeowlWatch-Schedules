@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>International Station</key>
+	<key>Wildcat Deli</key>
 	<array>
 		<dict>
 			<key>StartingDayOfWeek</key>
@@ -11,7 +11,7 @@
 			<string>Friday</string>
 			<key>Schedule</key>
 			<dict>
-				<key>1100</key>
+				<key>1030</key>
 				<string>Closed</string>
 				<key>1500</key>
 				<string>Open</string>
@@ -31,7 +31,7 @@
 			</dict>
 		</dict>
 	</array>
-	<key>Cat Shack</key>
+	<key>Patty Squared</key>
 	<array>
 		<dict>
 			<key>StartingDayOfWeek</key>
@@ -40,9 +40,9 @@
 			<string>Thursday</string>
 			<key>Schedule</key>
 			<dict>
-				<key>1100</key>
+				<key>1030</key>
 				<string>Closed</string>
-				<key>1900</key>
+				<key>1930</key>
 				<string>Open</string>
 				<key>2400</key>
 				<string>Closed</string>
@@ -55,7 +55,7 @@
 			<string>Friday</string>
 			<key>Schedule</key>
 			<dict>
-				<key>1100</key>
+				<key>1030</key>
 				<string>Closed</string>
 				<key>1500</key>
 				<string>Open</string>
@@ -67,24 +67,9 @@
 			<key>StartingDayOfWeek</key>
 			<string>Saturday</string>
 			<key>EndingDayOfWeek</key>
-			<string>Saturday</string>
-			<key>Schedule</key>
-			<dict>
-				<key>2400</key>
-				<string>Closed</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>StartingDayOfWeek</key>
-			<string>Sunday</string>
-			<key>EndingDayOfWeek</key>
 			<string>Sunday</string>
 			<key>Schedule</key>
 			<dict>
-				<key>1200</key>
-				<string>Closed</string>
-				<key>1500</key>
-				<string>Open</string>
 				<key>2400</key>
 				<string>Closed</string>
 			</dict>
@@ -119,18 +104,18 @@
 			</dict>
 		</dict>
 	</array>
-	<key>The Kiln</key>
+	<key>Budlong Hot Chicken</key>
 	<array>
 		<dict>
 			<key>StartingDayOfWeek</key>
-			<string>Sunday</string>
+			<string>Monday</string>
 			<key>EndingDayOfWeek</key>
 			<string>Thursday</string>
 			<key>Schedule</key>
 			<dict>
-				<key>1100</key>
+				<key>1030</key>
 				<string>Closed</string>
-				<key>2300</key>
+				<key>1930</key>
 				<string>Open</string>
 				<key>2400</key>
 				<string>Closed</string>
@@ -139,24 +124,6 @@
 		<dict>
 			<key>StartingDayOfWeek</key>
 			<string>Friday</string>
-			<key>EndingDayOfWeek</key>
-			<string>Saturday</string>
-			<key>Schedule</key>
-			<dict>
-				<key>1100</key>
-				<string>Closed</string>
-				<key>2100</key>
-				<string>Open</string>
-				<key>2400</key>
-				<string>Closed</string>
-			</dict>
-		</dict>
-	</array>
-	<key>Sushi</key>
-	<array>
-		<dict>
-			<key>StartingDayOfWeek</key>
-			<string>Monday</string>
 			<key>EndingDayOfWeek</key>
 			<string>Friday</string>
 			<key>Schedule</key>
@@ -181,7 +148,25 @@
 			</dict>
 		</dict>
 	</array>
-	<key>Paws &apos;n&apos; Go C-Store</key>
+	<key>Asiana Foodville</key>
+	<array>
+		<dict>
+			<key>StartingDayOfWeek</key>
+			<string>Sunday</string>
+			<key>EndingDayOfWeek</key>
+			<string>Saturday</string>
+			<key>Schedule</key>
+			<dict>
+				<key>1030</key>
+				<string>Closed</string>
+				<key>1930</key>
+				<string>Open</string>
+				<key>2400</key>
+				<string>Closed</string>
+			</dict>
+		</dict>
+	</array>
+	<key>Market C-Store</key>
 	<array>
 		<dict>
 			<key>StartingDayOfWeek</key>
@@ -238,24 +223,6 @@
 				<key>1000</key>
 				<string>Closed</string>
 				<key>2300</key>
-				<string>Open</string>
-				<key>2400</key>
-				<string>Closed</string>
-			</dict>
-		</dict>
-	</array>
-	<key>Subway</key>
-	<array>
-		<dict>
-			<key>StartingDayOfWeek</key>
-			<string>Sunday</string>
-			<key>EndingDayOfWeek</key>
-			<string>Saturday</string>
-			<key>Schedule</key>
-			<dict>
-				<key>1100</key>
-				<string>Closed</string>
-				<key>2100</key>
 				<string>Open</string>
 				<key>2400</key>
 				<string>Closed</string>
@@ -325,6 +292,54 @@
 			</dict>
 		</dict>
 	</array>
+	<key>MOD Pizza</key>
+	<array>
+		<dict>
+			<key>StartingDayOfWeek</key>
+			<string>Monday</string>
+			<key>EndingDayOfWeek</key>
+			<string>Friday</string>
+			<key>Schedule</key>
+			<dict>
+				<key>1030</key>
+				<string>Closed</string>
+				<key>2300</key>
+				<string>Open</string>
+				<key>2400</key>
+				<string>Closed</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>StartingDayOfWeek</key>
+			<string>Saturday</string>
+			<key>EndingDayOfWeek</key>
+			<string>Saturday</string>
+			<key>Schedule</key>
+			<dict>
+				<key>1100</key>
+				<string>Closed</string>
+				<key>2100</key>
+				<string>Open</string>
+				<key>2400</key>
+				<string>Closed</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>StartingDayOfWeek</key>
+			<string>Sunday</string>
+			<key>EndingDayOfWeek</key>
+			<string>Sunday</string>
+			<key>Schedule</key>
+			<dict>
+				<key>1100</key>
+				<string>Closed</string>
+				<key>2300</key>
+				<string>Open</string>
+				<key>2400</key>
+				<string>Closed</string>
+			</dict>
+		</dict>
+	</array>
 	<key>Dunkin&apos; Donuts</key>
 	<array>
 		<dict>
@@ -337,35 +352,6 @@
 				<key>0800</key>
 				<string>Closed</string>
 				<key>1600</key>
-				<string>Open</string>
-				<key>2400</key>
-				<string>Closed</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>StartingDayOfWeek</key>
-			<string>Saturday</string>
-			<key>EndingDayOfWeek</key>
-			<string>Sunday</string>
-			<key>Schedule</key>
-			<dict>
-				<key>2400</key>
-				<string>Closed</string>
-			</dict>
-		</dict>
-	</array>
-	<key>Frontera Fresco</key>
-	<array>
-		<dict>
-			<key>StartingDayOfWeek</key>
-			<string>Monday</string>
-			<key>EndingDayOfWeek</key>
-			<string>Friday</string>
-			<key>Schedule</key>
-			<dict>
-				<key>1100</key>
-				<string>Closed</string>
-				<key>1500</key>
 				<string>Open</string>
 				<key>2400</key>
 				<string>Closed</string>
