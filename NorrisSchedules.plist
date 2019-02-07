@@ -75,35 +75,6 @@
 			</dict>
 		</dict>
 	</array>
-	<key>Wildcat Den</key>
-	<array>
-		<dict>
-			<key>StartingDayOfWeek</key>
-			<string>Monday</string>
-			<key>EndingDayOfWeek</key>
-			<string>Friday</string>
-			<key>Schedule</key>
-			<dict>
-				<key>1100</key>
-				<string>Closed</string>
-				<key>1500</key>
-				<string>Open</string>
-				<key>2400</key>
-				<string>Closed</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>StartingDayOfWeek</key>
-			<string>Saturday</string>
-			<key>EndingDayOfWeek</key>
-			<string>Sunday</string>
-			<key>Schedule</key>
-			<dict>
-				<key>2400</key>
-				<string>Closed</string>
-			</dict>
-		</dict>
-	</array>
 	<key>Budlong Hot Chicken</key>
 	<array>
 		<dict>
