@@ -6,6 +6,8 @@
 	<dict>
 		<key>LocationId</key>
 		<string>5b33ae291178e909d807593d</string>
+		<key>GoogleMapsUrl</key>
+		<string>https://goo.gl/maps/efKncKfaVAmDJ2YKA</string>
 		<key>Schedules</key>
 		<array>
 			<dict>
@@ -67,6 +69,8 @@
 	<dict>
 		<key>LocationId</key>
 		<string>5d113c924198d409c34fdf5c</string>
+		<key>GoogleMapsUrl</key>
+		<string>https://goo.gl/maps/PKXibjXek8ER9kYF6</string>
 		<key>Schedules</key>
 		<array>
 			<dict>
@@ -128,6 +132,8 @@
 	<dict>
 		<key>LocationId</key>
 		<string>5bae7ee9f3eeb60cb4f8f3af</string>
+		<key>GoogleMapsUrl</key>
+		<string>https://goo.gl/maps/mThNekrbdMyhT6r59</string>
 		<key>Schedules</key>
 		<array>
 			<dict>
@@ -155,6 +161,8 @@
 	<dict>
 		<key>LocationId</key>
 		<string>5bae7de3f3eeb60c7d3854ba</string>
+		<key>GoogleMapsUrl</key>
+		<string>https://goo.gl/maps/mThNekrbdMyhT6r59</string>
 		<key>Schedules</key>
 		<array>
 			<dict>
@@ -225,6 +233,8 @@
 	<dict>
 		<key>LocationId</key>
 		<string>5b33ae291178e909d807593e</string>
+		<key>GoogleMapsUrl</key>
+		<string>https://goo.gl/maps/4jrFxN2FMDU5nyrx6</string>
 		<key>Schedules</key>
 		<array>
 			<dict>
