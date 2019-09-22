@@ -53,6 +53,8 @@
 	</dict>
 	<key>Fran&apos;s Café at Willard</key>
 	<dict>
+		<key>GoogleMapsUrl</key>
+		<string>https://goo.gl/maps/Q6ZLfdvSi8cPc7ky9</string>
 		<key>Schedules</key>
 		<array>
 			<dict>
@@ -93,6 +95,8 @@
 	</dict>
 	<key>Kresge Café</key>
 	<dict>
+		<key>GoogleMapsUrl</key>
+		<string>https://goo.gl/maps/DjnmBF3Nf3JELekg7</string>
 		<key>Schedules</key>
 		<array>
 			<dict>
@@ -140,6 +144,8 @@
 	</dict>
 	<key>Café Bergson at Main</key>
 	<dict>
+		<key>GoogleMapsUrl</key>
+		<string>https://goo.gl/maps/EbYb6ZwHCAEKe6936</string>
 		<key>Schedules</key>
 		<array>
 			<dict>
@@ -217,6 +223,8 @@
 	</dict>
 	<key>Tech Express</key>
 	<dict>
+		<key>GoogleMapsUrl</key>
+		<string>https://goo.gl/maps/Y8ZH9ZaxVx4dDsDW6</string>
 		<key>Schedules</key>
 		<array>
 			<dict>
@@ -264,6 +272,8 @@
 	</dict>
 	<key>Café Coralie at Pancoe</key>
 	<dict>
+		<key>GoogleMapsUrl</key>
+		<string>https://goo.gl/maps/tEP1visij3gcTuQA7</string>
 		<key>Schedules</key>
 		<array>
 			<dict>
@@ -328,6 +338,8 @@
 	</dict>
 	<key>Lisa&apos;s Café at Slivka</key>
 	<dict>
+		<key>GoogleMapsUrl</key>
+		<string>https://goo.gl/maps/yTEkqL5gdfWoBhYv7</string>
 		<key>Schedules</key>
 		<array>
 			<dict>
